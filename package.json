@@ -1,5 +1,5 @@
 {
-  "name": passport-eveonline-js,
+  "name": "passport-eveonline-js",
   "description": "JavaScript port of EVE Online authentication strategy for Passport - https://github.com/mbrennan/passport-eveonline",
   "devDependencies": {
     "gulp": "^3.8.9",
